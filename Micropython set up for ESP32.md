@@ -17,12 +17,12 @@ If you have problems with wheels see: https://pythonwheels.com/
     ```
 5) Install pip request
     ```
-    pip install requests
+    pip3 install requests
     ```
 6) Install ampy tool
-     ```
-      pip install adafruit-ampy
-      ```
+    ```
+    pip3 install adafruit-ampy
+    ```
 7) Deactivate de ESP debug (through serial terminal prompt - baudrate 115200) 
       ```
       import esp
