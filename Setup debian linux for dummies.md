@@ -9,11 +9,9 @@
     sudo apt update
     sudo apt upgrade
     ```
-4) Install pip and setuptool for python2 and python3
+4) Install pip and setuptool for python3
     ```
-    sudo apt-get install python-pip
     sudo apt-get install python3-pip
-    sudo apt-get install python-setuptools
     sudo apt-get install python3-setuptools
     ```
 5) Create alias for python inside of bashrc or profilerc
