@@ -1,4 +1,4 @@
-# IoThix_micro_python
+# Using micropython on linux
 IoThix developments using micro Python. Follow these instructions to set up the environment.
 
 Please install virtualenv just once on PC, see: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
